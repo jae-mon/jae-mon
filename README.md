@@ -4,9 +4,9 @@
 
 I'm a Full Stack developer, working presently with Rails and React. 
 
-You can see the technologies I'm familiar with listed in the toolbox below.
+I'm also familiar with several other technologies, listed in the toolkit section below.
 
-I've also just started creating my online presence with my [blog](https://jaemon.hashnode.dev/), hosted on Hasnode.
+Please visit my [blog](https://jaemon.hashnode.dev/), hosted on Hashnode.
 
 You can also check me out on Twitter ![Twitter URL](https://img.shields.io/twitter/url?label=See%20me%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FJoKurio6).
 
