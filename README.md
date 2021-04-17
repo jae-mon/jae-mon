@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Jonathan Owah
+
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoKurio6
 
 <!--
 **jae-mon/jae-mon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
