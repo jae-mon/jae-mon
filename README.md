@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Jonathan Owah
 
+---
+
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=See%20me%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FJoKurio6)
 
