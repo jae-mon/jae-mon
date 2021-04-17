@@ -2,8 +2,13 @@
 
 ---
 
+I'm a Full Stack developer, working primarily with Rails and React. 
 
-![Twitter URL](https://img.shields.io/twitter/url?label=See%20me%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FJoKurio6)
+You can see the technologies I work with listed in the toolbox below.
+
+I've also just started creating my online presence with my [blog](https://jaemon.hashnode.dev/), hosted on Hasnode.
+
+You can also check me out on Twitter ![Twitter URL](https://img.shields.io/twitter/url?label=See%20me%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FJoKurio6)
 
 
 <!--
