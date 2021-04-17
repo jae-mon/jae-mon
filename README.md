@@ -2,9 +2,9 @@
 
 ---
 
-I'm a Full Stack developer, working primarily with Rails and React. 
+I'm a Full Stack developer, working presently with Rails and React. 
 
-You can see the technologies I work with listed in the toolbox below.
+You can see the technologies I'm familiar with listed in the toolbox below.
 
 I've also just started creating my online presence with my [blog](https://jaemon.hashnode.dev/), hosted on Hasnode.
 
@@ -17,6 +17,10 @@ You can also check me out on Twitter ![Twitter URL](https://img.shields.io/twitt
 <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3 logo" />  <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="CSS3 logo" />     <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap logo" />   <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo" />   <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter logo" />   <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jquery/jquery-original.svg" width="50" height="50" alt="JQuery logo" />   <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/rails/rails-original-wordmark.svg" width="50" height="50" alt="Rails logo" />
 
 <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" width="50" height="50" alt="React logo" />    <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/ruby/ruby-original.svg" width="50" height="50" alt="Ruby logo" />    <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="pgl logo" />   <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg" width="50" height="50" alt="Git logo" />   <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg" width="50" height="50" alt="Github logo" />   <img src= "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/android/android-original.svg" width="50" height="50" alt="Android logo" />    <img src= "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" height="50" alt="VS Code logo" />
+
+---
+
+📘 Blog articles
 
 
 
