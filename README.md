@@ -19,7 +19,7 @@ You can also check me out on Twitter ![Twitter URL](https://img.shields.io/twitt
 
 ---
 
-📘 Blog articles
+## 📘 Blog articles
 
 <!-- BLOG-POST-LIST:START -->
 
