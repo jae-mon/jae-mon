@@ -1,3 +1,5 @@
+---
+
 ### Hi there , <img src="https://media3.giphy.com/media/kBZ212yGzFaxgkSIKW/200w.webp?cid=ecf05e4764z5gw1svcfvo6tshxo3gt9q1fcz66tlzf02i1br&rid=200w.webp&ct=s" width="50" height="50" /> I'm Jonathan Owah
 
 
@@ -45,3 +47,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 
 -->
+---
