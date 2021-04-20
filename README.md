@@ -17,7 +17,7 @@ You can also check me out on Twitter ![Twitter URL](https://img.shields.io/twitt
 
 🔭 I’m currently working on improving my CV
 
-🌱 I’m currently improving my knowledge in Rails, React Data Structures and Algorithms
+🌱 I’m also working on improving my skills in Rails, React Data Structures and Algorithms
 
 ---
 
@@ -27,8 +27,9 @@ You can also check me out on Twitter ![Twitter URL](https://img.shields.io/twitt
 
 ---
 
-
- <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
+<img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+  Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
+ 
 ---  
 
 ## 📘 Blog articles
