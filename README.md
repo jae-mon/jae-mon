@@ -1,7 +1,7 @@
 ---
 
 ### Hi there , <img src="https://media3.giphy.com/media/kBZ212yGzFaxgkSIKW/200w.webp?cid=ecf05e4764z5gw1svcfvo6tshxo3gt9q1fcz66tlzf02i1br&rid=200w.webp&ct=s" width="50" height="50" /> I'm Jonathan Owah
-<a href="https://www.linkedin.com/in/jonathan-owah/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonathan-owah/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 ---
